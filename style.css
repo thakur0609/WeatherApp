@@ -25,7 +25,7 @@ h3{
     height: 100px;
     /* border: 2px solid black; */
     /* margin: auto; */
-    background-image: url("Sunny.png");
+    background-image: url("./Images/Sunny.png");
     background-size: cover;
 }
 .cld{
@@ -43,7 +43,7 @@ h3{
     height: 100px;
     /* border: 2px solid black; */
     /* margin: auto; */
-    background-image: url("partly_cloudy.png");
+    background-image: url("./Images/partly_cloudy.png");
     background-size: cover;
 }
 .cld2{
@@ -61,7 +61,7 @@ h3{
     height: 100px;
     /* border: 2px solid black; */
     /* margin: auto; */
-    background-image: url("mostly_clody.png");
+    background-image: url("./Images/mostly_clody.png");
     background-size: cover;
     /* background-position: center; */
 }
@@ -80,7 +80,7 @@ h3{
     height: 100px;
     /* border: 2px solid black; */
     /* margin: auto; */
-    background-image: url("Rainy1.png");
+    background-image: url("./Images/Rainy1.png");
     background-size: cover;
 }
 .top2{
@@ -98,6 +98,6 @@ h3{
     height: 100px;
     /* border: 2px solid black; */
     /* margin: auto; */
-    background-image: url("partly_cloudy.png");
+    background-image: url("./Images/partly_cloudy.png");
     background-size: cover;
 }
